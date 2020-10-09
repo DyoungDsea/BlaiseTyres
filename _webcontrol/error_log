@@ -1,0 +1,924 @@
+[16-Jun-2020 08:58:21 America/New_York] PHP Fatal error:  Cannot redeclare discount() (previously declared in /home/tyrezghb/public_html/private/conn.php:59) in /home/tyrezghb/public_html/private/conn.php on line 59
+[16-Jun-2020 08:58:33 America/New_York] PHP Fatal error:  Cannot redeclare discount() (previously declared in /home/tyrezghb/public_html/private/conn.php:59) in /home/tyrezghb/public_html/private/conn.php on line 59
+[16-Jun-2020 08:59:37 America/New_York] PHP Fatal error:  Cannot redeclare discount() (previously declared in /home/tyrezghb/public_html/private/conn.php:59) in /home/tyrezghb/public_html/private/conn.php on line 59
+[16-Jun-2020 08:59:44 America/New_York] PHP Fatal error:  Cannot redeclare discount() (previously declared in /home/tyrezghb/public_html/private/conn.php:59) in /home/tyrezghb/public_html/private/conn.php on line 59
+[16-Jun-2020 09:01:34 America/New_York] PHP Fatal error:  Cannot redeclare discount() (previously declared in /home/tyrezghb/public_html/private/conn.php:59) in /home/tyrezghb/public_html/private/conn.php on line 59
+[16-Jun-2020 09:01:42 America/New_York] PHP Fatal error:  Cannot redeclare discount() (previously declared in /home/tyrezghb/public_html/private/conn.php:59) in /home/tyrezghb/public_html/private/conn.php on line 59
+[16-Jun-2020 09:07:13 America/New_York] PHP Fatal error:  Cannot redeclare discount() (previously declared in /home/tyrezghb/public_html/private/conn.php:59) in /home/tyrezghb/public_html/private/conn.php on line 59
+[16-Jun-2020 09:07:18 America/New_York] PHP Fatal error:  Cannot redeclare discount() (previously declared in /home/tyrezghb/public_html/private/conn.php:59) in /home/tyrezghb/public_html/private/conn.php on line 59
+[16-Jun-2020 09:11:53 America/New_York] PHP Fatal error:  Cannot redeclare discount() (previously declared in /home/tyrezghb/public_html/private/conn.php:59) in /home/tyrezghb/public_html/private/conn.php on line 59
+[16-Jun-2020 09:13:06 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tyrezghb/public_html/private/conn.php on line 2
+[16-Jun-2020 09:13:06 America/New_York] PHP Fatal error:  Cannot redeclare discount() (previously declared in /home/tyrezghb/public_html/private/conn.php:59) in /home/tyrezghb/public_html/private/conn.php on line 59
+[16-Jun-2020 09:13:18 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tyrezghb/public_html/private/conn.php on line 2
+[16-Jun-2020 09:13:18 America/New_York] PHP Fatal error:  Cannot redeclare discount() (previously declared in /home/tyrezghb/public_html/private/conn.php:59) in /home/tyrezghb/public_html/private/conn.php on line 59
+[16-Jun-2020 09:13:37 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tyrezghb/public_html/private/conn.php on line 2
+[16-Jun-2020 09:13:37 America/New_York] PHP Fatal error:  Cannot redeclare discount() (previously declared in /home/tyrezghb/public_html/private/conn.php:59) in /home/tyrezghb/public_html/private/conn.php on line 59
+[16-Jun-2020 09:19:53 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tyrezghb/public_html/private/conn.php on line 2
+[16-Jun-2020 09:19:53 America/New_York] PHP Fatal error:  Cannot redeclare discount() (previously declared in /home/tyrezghb/public_html/private/conn.php:59) in /home/tyrezghb/public_html/private/conn.php on line 59
+[16-Jun-2020 09:20:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tyrezghb/public_html/private/conn.php on line 2
+[16-Jun-2020 09:20:36 America/New_York] PHP Fatal error:  Cannot redeclare discount() (previously declared in /home/tyrezghb/public_html/private/conn.php:59) in /home/tyrezghb/public_html/private/conn.php on line 59
+[16-Jun-2020 09:21:23 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tyrezghb/public_html/private/conn.php on line 2
+[16-Jun-2020 09:21:23 America/New_York] PHP Fatal error:  Cannot redeclare discount() (previously declared in /home/tyrezghb/public_html/private/conn.php:59) in /home/tyrezghb/public_html/private/conn.php on line 59
+[16-Jun-2020 09:23:11 America/New_York] PHP Fatal error:  Cannot redeclare discount() (previously declared in /home/tyrezghb/public_html/private/conn.php:59) in /home/tyrezghb/public_html/private/conn.php on line 59
+[16-Jun-2020 09:27:01 America/New_York] PHP Fatal error:  Cannot redeclare discount() (previously declared in /home/tyrezghb/public_html/private/conn.php:59) in /home/tyrezghb/public_html/private/conn.php on line 59
+[16-Jun-2020 09:28:25 America/New_York] PHP Fatal error:  Cannot redeclare discount() (previously declared in /home/tyrezghb/public_html/private/conn.php:59) in /home/tyrezghb/public_html/private/conn.php on line 59
+[16-Jun-2020 09:29:29 America/New_York] PHP Fatal error:  Cannot redeclare discount() (previously declared in /home/tyrezghb/public_html/private/conn.php:59) in /home/tyrezghb/public_html/private/conn.php on line 59
+[16-Jun-2020 09:29:54 America/New_York] PHP Fatal error:  Cannot redeclare discount() (previously declared in /home/tyrezghb/public_html/private/conn.php:59) in /home/tyrezghb/public_html/private/conn.php on line 59
+[16-Jun-2020 09:30:16 America/New_York] PHP Fatal error:  Cannot redeclare discount() (previously declared in /home/tyrezghb/public_html/private/conn.php:59) in /home/tyrezghb/public_html/private/conn.php on line 59
+[16-Jun-2020 09:30:30 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/index.php on line 34
+[16-Jun-2020 09:30:30 America/New_York] PHP Notice:  Undefined variable: conn in /home/tyrezghb/public_html/private/_webcontrol/index.php on line 49
+[16-Jun-2020 09:30:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tyrezghb/public_html/private/_webcontrol/index.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/tyrezghb/public_html/private/_webcontrol/index.php on line 49
+[16-Jun-2020 09:31:20 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/aside.php on line 2
+[16-Jun-2020 09:31:20 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/aside.php on line 5
+[16-Jun-2020 09:31:20 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/index.php on line 34
+[16-Jun-2020 09:31:20 America/New_York] PHP Notice:  Undefined variable: conn in /home/tyrezghb/public_html/private/_webcontrol/index.php on line 49
+[16-Jun-2020 09:31:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tyrezghb/public_html/private/_webcontrol/index.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/tyrezghb/public_html/private/_webcontrol/index.php on line 49
+[16-Jun-2020 09:31:52 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/aside.php on line 2
+[16-Jun-2020 09:31:52 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/aside.php on line 5
+[16-Jun-2020 09:31:52 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/index.php on line 34
+[16-Jun-2020 09:31:52 America/New_York] PHP Notice:  Undefined variable: conn in /home/tyrezghb/public_html/private/_webcontrol/index.php on line 49
+[16-Jun-2020 09:31:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tyrezghb/public_html/private/_webcontrol/index.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/tyrezghb/public_html/private/_webcontrol/index.php on line 49
+[16-Jun-2020 09:33:02 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/aside.php on line 2
+[16-Jun-2020 09:33:02 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/aside.php on line 5
+[16-Jun-2020 09:33:02 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/index.php on line 34
+[16-Jun-2020 09:33:02 America/New_York] PHP Notice:  Undefined variable: conn in /home/tyrezghb/public_html/private/_webcontrol/index.php on line 49
+[16-Jun-2020 09:33:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tyrezghb/public_html/private/_webcontrol/index.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/tyrezghb/public_html/private/_webcontrol/index.php on line 49
+[16-Jun-2020 09:33:12 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/aside.php on line 2
+[16-Jun-2020 09:33:12 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/aside.php on line 5
+[16-Jun-2020 09:33:12 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/index.php on line 34
+[16-Jun-2020 09:33:12 America/New_York] PHP Notice:  Undefined variable: conn in /home/tyrezghb/public_html/private/_webcontrol/index.php on line 49
+[16-Jun-2020 09:33:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tyrezghb/public_html/private/_webcontrol/index.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/tyrezghb/public_html/private/_webcontrol/index.php on line 49
+[16-Jun-2020 09:33:39 America/New_York] PHP Fatal error:  Cannot redeclare discount() (previously declared in /home/tyrezghb/public_html/private/conn.php:59) in /home/tyrezghb/public_html/private/conn.php on line 59
+[16-Jun-2020 09:34:21 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/tyrezghb/public_html/private/_webcontrol/header.php on line 4
+[16-Jun-2020 09:34:21 America/New_York] PHP Notice:  Undefined variable: conn in /home/tyrezghb/public_html/private/_webcontrol/header.php on line 20
+[16-Jun-2020 09:34:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function real_escape_string() on null in /home/tyrezghb/public_html/private/_webcontrol/header.php:20
+Stack trace:
+#0 /home/tyrezghb/public_html/private/_webcontrol/index.php(15): include()
+#1 {main}
+  thrown in /home/tyrezghb/public_html/private/_webcontrol/header.php on line 20
+[16-Jun-2020 09:35:24 America/New_York] PHP Fatal error:  Cannot redeclare discount() (previously declared in /home/tyrezghb/public_html/private/conn.php:59) in /home/tyrezghb/public_html/private/conn.php on line 59
+[16-Jun-2020 09:35:56 America/New_York] PHP Fatal error:  Cannot redeclare discount() (previously declared in /home/tyrezghb/public_html/private/conn.php:59) in /home/tyrezghb/public_html/private/conn.php on line 59
+[16-Jun-2020 09:36:28 America/New_York] PHP Fatal error:  Cannot redeclare discount() (previously declared in /home/tyrezghb/public_html/private/conn.php:59) in /home/tyrezghb/public_html/private/conn.php on line 59
+[16-Jun-2020 09:36:57 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/aside.php on line 2
+[16-Jun-2020 09:36:57 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/aside.php on line 5
+[16-Jun-2020 09:36:57 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/index.php on line 34
+[16-Jun-2020 09:36:57 America/New_York] PHP Notice:  Undefined variable: conn in /home/tyrezghb/public_html/private/_webcontrol/index.php on line 49
+[16-Jun-2020 09:36:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tyrezghb/public_html/private/_webcontrol/index.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/tyrezghb/public_html/private/_webcontrol/index.php on line 49
+[16-Jun-2020 09:38:22 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/aside.php on line 2
+[16-Jun-2020 09:38:22 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/aside.php on line 5
+[16-Jun-2020 09:38:22 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/index.php on line 34
+[16-Jun-2020 09:38:22 America/New_York] PHP Notice:  Undefined variable: conn in /home/tyrezghb/public_html/private/_webcontrol/index.php on line 49
+[16-Jun-2020 09:38:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tyrezghb/public_html/private/_webcontrol/index.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/tyrezghb/public_html/private/_webcontrol/index.php on line 49
+[16-Jun-2020 09:42:42 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/aside.php on line 2
+[16-Jun-2020 09:42:42 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/aside.php on line 5
+[16-Jun-2020 09:42:42 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/index.php on line 34
+[16-Jun-2020 09:42:42 America/New_York] PHP Notice:  Undefined variable: conn in /home/tyrezghb/public_html/private/_webcontrol/index.php on line 49
+[16-Jun-2020 09:42:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/tyrezghb/public_html/private/_webcontrol/index.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/tyrezghb/public_html/private/_webcontrol/index.php on line 49
+[16-Jun-2020 09:44:11 America/New_York] PHP Fatal error:  Cannot redeclare discount() (previously declared in /home/tyrezghb/public_html/private/conn.php:59) in /home/tyrezghb/public_html/private/conn.php on line 59
+[16-Jun-2020 09:51:45 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tyrezghb/public_html/private/conn.php on line 2
+[16-Jun-2020 09:51:59 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tyrezghb/public_html/private/conn.php on line 2
+[16-Jun-2020 09:56:03 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tyrezghb/public_html/private/conn.php on line 2
+[16-Jun-2020 10:31:55 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/private/_webcontrol/header.php on line 4
+[16-Jun-2020 10:31:55 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/private/_webcontrol/header.php on line 20
+[16-Jun-2020 10:31:55 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/header.php on line 29
+[16-Jun-2020 10:31:55 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/manage-carousel.php on line 25
+[16-Jun-2020 10:31:55 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/aside.php on line 2
+[16-Jun-2020 10:31:55 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/aside.php on line 5
+[16-Jun-2020 10:31:55 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/footer.php on line 98
+[16-Jun-2020 10:31:55 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/footer.php on line 135
+[16-Jun-2020 10:31:55 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/footer.php on line 136
+[16-Jun-2020 10:31:55 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/footer.php on line 141
+[16-Jun-2020 10:31:55 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/private/_webcontrol/footer.php on line 146
+[17-Jun-2020 07:56:21 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tyrezghb/public_html/conn.php on line 2
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined index: user_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 303
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined index: name in /home/tyrezghb/public_html/_webcontrol/orders.php on line 340
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined index: user_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 341
+[17-Jun-2020 13:27:56 America/New_York] PHP Notice:  Undefined index: phone in /home/tyrezghb/public_html/_webcontrol/orders.php on line 351
+[17-Jun-2020 14:19:30 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[17-Jun-2020 14:19:30 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 20
+[17-Jun-2020 14:19:30 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 29
+[17-Jun-2020 14:19:30 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[17-Jun-2020 14:19:30 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[17-Jun-2020 14:19:30 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[17-Jun-2020 14:19:30 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[17-Jun-2020 14:19:30 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[17-Jun-2020 14:19:30 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[17-Jun-2020 14:19:30 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[17-Jun-2020 14:19:30 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 193
+[17-Jun-2020 14:19:30 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 230
+[17-Jun-2020 14:19:30 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 231
+[17-Jun-2020 14:19:30 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 236
+[17-Jun-2020 14:19:30 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 241
+[17-Jun-2020 14:19:59 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/tyrezghb/public_html/_webcontrol/pay-on-delivery.php on line 130
+[17-Jun-2020 14:21:13 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/accounts.php on line 266
+[17-Jun-2020 19:58:28 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[17-Jun-2020 19:58:28 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 20
+[17-Jun-2020 19:58:28 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 29
+[17-Jun-2020 19:58:28 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/settings.php on line 33
+[17-Jun-2020 19:58:28 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/settings.php on line 34
+[17-Jun-2020 19:58:28 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[17-Jun-2020 19:58:28 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[17-Jun-2020 19:58:28 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[17-Jun-2020 19:58:28 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[17-Jun-2020 19:58:28 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[17-Jun-2020 19:58:28 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[17-Jun-2020 19:58:28 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[17-Jun-2020 19:58:28 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[17-Jun-2020 19:58:28 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 20
+[17-Jun-2020 19:58:28 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 29
+[17-Jun-2020 19:58:28 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[17-Jun-2020 19:58:28 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[17-Jun-2020 19:58:28 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/index.php on line 34
+[17-Jun-2020 19:58:28 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[17-Jun-2020 19:58:28 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[17-Jun-2020 19:58:28 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[17-Jun-2020 19:58:28 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[17-Jun-2020 19:58:28 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[18-Jun-2020 04:17:55 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[18-Jun-2020 04:17:55 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 20
+[18-Jun-2020 04:17:55 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 29
+[18-Jun-2020 04:17:55 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/settings.php on line 33
+[18-Jun-2020 04:17:55 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/settings.php on line 34
+[18-Jun-2020 04:17:55 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[18-Jun-2020 04:17:55 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[18-Jun-2020 04:17:55 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[18-Jun-2020 04:17:55 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[18-Jun-2020 04:17:55 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[18-Jun-2020 04:17:55 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[18-Jun-2020 04:17:55 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[18-Jun-2020 04:17:55 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[18-Jun-2020 04:17:55 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 20
+[18-Jun-2020 04:17:55 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 29
+[18-Jun-2020 04:17:55 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[18-Jun-2020 04:17:55 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[18-Jun-2020 04:17:55 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/index.php on line 34
+[18-Jun-2020 04:17:55 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[18-Jun-2020 04:17:55 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[18-Jun-2020 04:17:55 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[18-Jun-2020 04:17:55 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[18-Jun-2020 04:17:55 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[18-Jun-2020 05:09:17 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/tyrezghb/public_html/_webcontrol/pay-on-delivery.php on line 130
+[18-Jun-2020 05:17:20 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/tyrezghb/public_html/_webcontrol/pay-on-delivery.php on line 130
+[18-Jun-2020 05:17:37 America/New_York] PHP Notice:  Undefined index: user_id in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 193
+[18-Jun-2020 05:17:37 America/New_York] PHP Notice:  Undefined index: name in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 230
+[18-Jun-2020 05:17:37 America/New_York] PHP Notice:  Undefined index: user_id in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 231
+[18-Jun-2020 05:17:37 America/New_York] PHP Notice:  Undefined index: phone in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 241
+[18-Jun-2020 08:01:13 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; upload has a deprecated constructor in /home/tyrezghb/public_html/_webcontrol/image_php/class.upload.php on line 39
+[18-Jun-2020 08:05:57 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; upload has a deprecated constructor in /home/tyrezghb/public_html/_webcontrol/image_php/class.upload.php on line 39
+[18-Jun-2020 08:27:23 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; upload has a deprecated constructor in /home/tyrezghb/public_html/_webcontrol/image_php/class.upload.php on line 39
+[18-Jun-2020 09:19:10 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; upload has a deprecated constructor in /home/tyrezghb/public_html/_webcontrol/image_php/class.upload.php on line 39
+[19-Jun-2020 05:05:58 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[19-Jun-2020 05:05:58 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 20
+[19-Jun-2020 05:05:58 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 29
+[19-Jun-2020 05:05:58 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/manage-carousel.php on line 25
+[19-Jun-2020 05:05:58 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[19-Jun-2020 05:05:58 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[19-Jun-2020 05:05:58 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[19-Jun-2020 05:05:58 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[19-Jun-2020 05:05:58 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[19-Jun-2020 05:05:58 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[19-Jun-2020 05:05:58 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[19-Jun-2020 06:25:04 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[19-Jun-2020 06:25:04 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 20
+[19-Jun-2020 06:25:04 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 29
+[19-Jun-2020 06:25:04 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/manage-carousel.php on line 25
+[19-Jun-2020 06:25:04 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[19-Jun-2020 06:25:04 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[19-Jun-2020 06:25:04 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[19-Jun-2020 06:25:04 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[19-Jun-2020 06:25:04 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[19-Jun-2020 06:25:04 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[19-Jun-2020 06:25:04 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[19-Jun-2020 09:08:06 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[19-Jun-2020 09:08:06 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 20
+[19-Jun-2020 09:08:06 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 29
+[19-Jun-2020 09:08:06 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/manage-carousel.php on line 25
+[19-Jun-2020 09:08:06 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[19-Jun-2020 09:08:06 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[19-Jun-2020 09:08:06 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[19-Jun-2020 09:08:06 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[19-Jun-2020 09:08:06 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[19-Jun-2020 09:08:06 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[19-Jun-2020 09:08:06 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[19-Jun-2020 19:50:47 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/accounts.php on line 266
+[19-Jun-2020 19:51:39 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/accounts.php on line 266
+[19-Jun-2020 19:52:17 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tyrezghb/public_html/conn.php on line 2
+[19-Jun-2020 20:00:34 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/tyrezghb/public_html/_webcontrol/pay-on-delivery.php on line 130
+[20-Jun-2020 03:47:15 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[20-Jun-2020 03:47:15 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 20
+[20-Jun-2020 03:47:15 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 29
+[20-Jun-2020 03:47:15 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/pay-on-delivery.php on line 14
+[20-Jun-2020 03:47:15 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/pay-on-delivery.php on line 15
+[20-Jun-2020 03:47:15 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[20-Jun-2020 03:47:15 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[20-Jun-2020 03:47:15 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/tyrezghb/public_html/_webcontrol/pay-on-delivery.php on line 130
+[20-Jun-2020 03:47:15 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[20-Jun-2020 03:47:15 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[20-Jun-2020 03:47:15 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[20-Jun-2020 03:47:15 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[20-Jun-2020 03:47:15 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[20-Jun-2020 03:47:15 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[20-Jun-2020 03:47:15 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 20
+[20-Jun-2020 03:47:15 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 29
+[20-Jun-2020 03:47:15 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[20-Jun-2020 03:47:15 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[20-Jun-2020 03:47:15 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/index.php on line 34
+[20-Jun-2020 03:47:15 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[20-Jun-2020 03:47:15 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[20-Jun-2020 03:47:15 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[20-Jun-2020 03:47:15 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[20-Jun-2020 03:47:15 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[20-Jun-2020 17:45:18 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[20-Jun-2020 17:45:18 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 20
+[20-Jun-2020 17:45:18 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 29
+[20-Jun-2020 17:45:18 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/pay-on-delivery.php on line 14
+[20-Jun-2020 17:45:18 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/pay-on-delivery.php on line 15
+[20-Jun-2020 17:45:18 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[20-Jun-2020 17:45:18 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[20-Jun-2020 17:45:18 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/tyrezghb/public_html/_webcontrol/pay-on-delivery.php on line 130
+[20-Jun-2020 17:45:18 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[20-Jun-2020 17:45:18 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[20-Jun-2020 17:45:18 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[20-Jun-2020 17:45:18 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[20-Jun-2020 17:45:18 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[20-Jun-2020 17:45:18 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[20-Jun-2020 17:45:18 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 20
+[20-Jun-2020 17:45:18 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 29
+[20-Jun-2020 17:45:18 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[20-Jun-2020 17:45:18 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[20-Jun-2020 17:45:18 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/index.php on line 34
+[20-Jun-2020 17:45:18 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[20-Jun-2020 17:45:18 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[20-Jun-2020 17:45:18 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[20-Jun-2020 17:45:18 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[20-Jun-2020 17:45:18 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[21-Jun-2020 12:44:50 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tyrezghb/public_html/conn.php on line 2
+[21-Jun-2020 13:39:40 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tyrezghb/public_html/conn.php on line 2
+[21-Jun-2020 13:39:41 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[21-Jun-2020 13:39:41 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 20
+[21-Jun-2020 13:39:41 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 29
+[21-Jun-2020 13:39:41 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/settings.php on line 33
+[21-Jun-2020 13:39:41 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/settings.php on line 34
+[21-Jun-2020 13:39:41 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[21-Jun-2020 13:39:41 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[21-Jun-2020 13:39:41 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[21-Jun-2020 13:39:41 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[21-Jun-2020 13:39:41 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[21-Jun-2020 13:39:41 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[21-Jun-2020 13:39:41 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[21-Jun-2020 13:39:41 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[21-Jun-2020 13:39:41 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 20
+[21-Jun-2020 13:39:41 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 29
+[21-Jun-2020 13:39:41 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[21-Jun-2020 13:39:41 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[21-Jun-2020 13:39:41 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/index.php on line 34
+[21-Jun-2020 13:39:41 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[21-Jun-2020 13:39:41 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[21-Jun-2020 13:39:41 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[21-Jun-2020 13:39:41 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[21-Jun-2020 13:39:41 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[21-Jun-2020 14:21:21 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tyrezghb/public_html/conn.php on line 2
+[21-Jun-2020 15:08:06 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[21-Jun-2020 15:08:06 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 20
+[21-Jun-2020 15:08:06 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 29
+[21-Jun-2020 15:08:06 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/manage-delivery.php on line 23
+[21-Jun-2020 15:08:06 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/manage-delivery.php on line 24
+[21-Jun-2020 15:08:06 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[21-Jun-2020 15:08:06 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[21-Jun-2020 15:08:06 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[21-Jun-2020 15:08:06 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[21-Jun-2020 15:08:06 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[21-Jun-2020 15:08:06 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[21-Jun-2020 15:08:06 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[21-Jun-2020 15:08:06 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[21-Jun-2020 15:08:06 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 20
+[21-Jun-2020 15:08:06 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 29
+[21-Jun-2020 15:08:06 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[21-Jun-2020 15:08:06 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[21-Jun-2020 15:08:06 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/index.php on line 34
+[21-Jun-2020 15:08:06 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[21-Jun-2020 15:08:06 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[21-Jun-2020 15:08:06 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[21-Jun-2020 15:08:06 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[21-Jun-2020 15:08:06 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[21-Jun-2020 15:08:26 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/tyrezghb/public_html/_webcontrol/pay-on-delivery.php on line 130
+[21-Jun-2020 15:08:51 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/tyrezghb/public_html/_webcontrol/pay-on-delivery.php on line 130
+[21-Jun-2020 15:09:36 America/New_York] PHP Notice:  Undefined index: user_id in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 193
+[21-Jun-2020 15:09:36 America/New_York] PHP Notice:  Undefined index: name in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 230
+[21-Jun-2020 15:09:36 America/New_York] PHP Notice:  Undefined index: user_id in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 231
+[21-Jun-2020 15:09:36 America/New_York] PHP Notice:  Undefined index: phone in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 241
+[21-Jun-2020 17:42:14 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[21-Jun-2020 17:42:14 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 20
+[21-Jun-2020 17:42:14 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 29
+[21-Jun-2020 17:42:14 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/settings.php on line 33
+[21-Jun-2020 17:42:14 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/settings.php on line 34
+[21-Jun-2020 17:42:14 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[21-Jun-2020 17:42:14 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[21-Jun-2020 17:42:14 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[21-Jun-2020 17:42:14 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[21-Jun-2020 17:42:14 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[21-Jun-2020 17:42:14 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[21-Jun-2020 17:42:14 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[21-Jun-2020 17:42:14 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[21-Jun-2020 17:42:14 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 20
+[21-Jun-2020 17:42:14 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 29
+[21-Jun-2020 17:42:14 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[21-Jun-2020 17:42:14 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[21-Jun-2020 17:42:14 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/index.php on line 34
+[21-Jun-2020 17:42:14 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[21-Jun-2020 17:42:14 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[21-Jun-2020 17:42:14 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[21-Jun-2020 17:42:14 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[21-Jun-2020 17:42:14 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[21-Jun-2020 19:11:54 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; upload has a deprecated constructor in /home/tyrezghb/public_html/_webcontrol/image_php/class.upload.php on line 39
+[22-Jun-2020 06:15:43 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[22-Jun-2020 06:15:43 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 20
+[22-Jun-2020 06:15:43 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 29
+[22-Jun-2020 06:15:43 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/products.php on line 30
+[22-Jun-2020 06:15:43 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[22-Jun-2020 06:15:43 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[22-Jun-2020 06:15:43 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[22-Jun-2020 06:15:43 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[22-Jun-2020 06:15:43 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[22-Jun-2020 06:15:43 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[22-Jun-2020 06:15:43 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[22-Jun-2020 06:53:49 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tyrezghb/public_html/conn.php on line 2
+[22-Jun-2020 08:10:19 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[22-Jun-2020 08:10:19 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 20
+[22-Jun-2020 08:10:19 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 29
+[22-Jun-2020 08:10:19 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/settings.php on line 33
+[22-Jun-2020 08:10:19 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/settings.php on line 34
+[22-Jun-2020 08:10:19 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[22-Jun-2020 08:10:19 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[22-Jun-2020 08:10:19 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[22-Jun-2020 08:10:19 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[22-Jun-2020 08:10:19 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[22-Jun-2020 08:10:19 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[22-Jun-2020 08:10:19 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[22-Jun-2020 08:10:20 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[22-Jun-2020 08:10:20 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 20
+[22-Jun-2020 08:10:20 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 29
+[22-Jun-2020 08:10:20 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[22-Jun-2020 08:10:20 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[22-Jun-2020 08:10:20 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/index.php on line 34
+[22-Jun-2020 08:10:20 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[22-Jun-2020 08:10:20 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[22-Jun-2020 08:10:20 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[22-Jun-2020 08:10:20 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[22-Jun-2020 08:10:20 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[22-Jun-2020 08:17:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tyrezghb/public_html/conn.php on line 2
+[22-Jun-2020 10:57:35 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[22-Jun-2020 10:57:35 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 20
+[22-Jun-2020 10:57:35 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 29
+[22-Jun-2020 10:57:35 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/notification.php on line 27
+[22-Jun-2020 10:57:35 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[22-Jun-2020 10:57:35 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[22-Jun-2020 10:57:35 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[22-Jun-2020 10:57:35 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[22-Jun-2020 10:57:35 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[22-Jun-2020 10:57:35 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[22-Jun-2020 10:57:35 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[22-Jun-2020 11:20:09 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/accounts.php on line 266
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined index: user_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 303
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined index: name in /home/tyrezghb/public_html/_webcontrol/orders.php on line 340
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined index: user_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 341
+[22-Jun-2020 11:20:30 America/New_York] PHP Notice:  Undefined index: phone in /home/tyrezghb/public_html/_webcontrol/orders.php on line 351
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined index: user_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 303
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined index: name in /home/tyrezghb/public_html/_webcontrol/orders.php on line 340
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined index: user_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 341
+[22-Jun-2020 11:20:53 America/New_York] PHP Notice:  Undefined index: phone in /home/tyrezghb/public_html/_webcontrol/orders.php on line 351
+[22-Jun-2020 11:21:15 America/New_York] PHP Notice:  Undefined index: user_id in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 193
+[22-Jun-2020 11:21:15 America/New_York] PHP Notice:  Undefined index: name in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 230
+[22-Jun-2020 11:21:15 America/New_York] PHP Notice:  Undefined index: user_id in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 231
+[22-Jun-2020 11:21:15 America/New_York] PHP Notice:  Undefined index: phone in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 241
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined index: user_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 303
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined index: name in /home/tyrezghb/public_html/_webcontrol/orders.php on line 340
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined index: user_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 341
+[22-Jun-2020 11:23:13 America/New_York] PHP Notice:  Undefined index: phone in /home/tyrezghb/public_html/_webcontrol/orders.php on line 351
+[22-Jun-2020 11:23:19 America/New_York] PHP Notice:  Undefined index: user_id in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 193
+[22-Jun-2020 11:23:19 America/New_York] PHP Notice:  Undefined index: name in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 230
+[22-Jun-2020 11:23:19 America/New_York] PHP Notice:  Undefined index: user_id in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 231
+[22-Jun-2020 11:23:19 America/New_York] PHP Notice:  Undefined index: phone in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 241
+[22-Jun-2020 11:26:24 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tyrezghb/public_html/conn.php on line 2
+[22-Jun-2020 12:02:14 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[22-Jun-2020 12:02:14 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 20
+[22-Jun-2020 12:02:14 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 29
+[22-Jun-2020 12:02:14 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/manage-carousel.php on line 25
+[22-Jun-2020 12:02:14 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[22-Jun-2020 12:02:14 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[22-Jun-2020 12:02:14 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[22-Jun-2020 12:02:14 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[22-Jun-2020 12:02:14 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[22-Jun-2020 12:02:14 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[22-Jun-2020 12:02:14 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[22-Jun-2020 18:13:22 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[22-Jun-2020 18:13:22 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 20
+[22-Jun-2020 18:13:22 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 29
+[22-Jun-2020 18:13:22 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[22-Jun-2020 18:13:22 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[22-Jun-2020 18:13:22 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/index.php on line 34
+[22-Jun-2020 18:13:22 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[22-Jun-2020 18:13:22 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[22-Jun-2020 18:13:22 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[22-Jun-2020 18:13:22 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[22-Jun-2020 18:13:22 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[23-Jun-2020 05:44:04 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tyrezghb/public_html/conn.php on line 2
+[23-Jun-2020 05:44:25 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tyrezghb/public_html/conn.php on line 2
+[23-Jun-2020 21:04:15 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/tyrezghb/public_html/_webcontrol/pay-on-delivery.php on line 130
+[23-Jun-2020 21:04:34 America/New_York] PHP Notice:  Undefined index: user_id in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 193
+[23-Jun-2020 21:04:34 America/New_York] PHP Notice:  Undefined index: name in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 230
+[23-Jun-2020 21:04:34 America/New_York] PHP Notice:  Undefined index: user_id in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 231
+[23-Jun-2020 21:04:34 America/New_York] PHP Notice:  Undefined index: phone in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 241
+[23-Jun-2020 21:05:17 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/tyrezghb/public_html/_webcontrol/pay-on-delivery.php on line 130
+[23-Jun-2020 21:05:36 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/tyrezghb/public_html/_webcontrol/pay-on-delivery.php on line 130
+[23-Jun-2020 21:05:45 America/New_York] PHP Notice:  Undefined variable: dtotal in /home/tyrezghb/public_html/_webcontrol/ajax-process.php on line 45
+[23-Jun-2020 21:05:48 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/tyrezghb/public_html/_webcontrol/pay-on-delivery.php on line 130
+[23-Jun-2020 21:05:56 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/tyrezghb/public_html/_webcontrol/pay-on-delivery.php on line 130
+[23-Jun-2020 21:06:02 America/New_York] PHP Notice:  Undefined variable: dtotal in /home/tyrezghb/public_html/_webcontrol/ajax-process.php on line 45
+[23-Jun-2020 21:06:04 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/tyrezghb/public_html/_webcontrol/pay-on-delivery.php on line 130
+[23-Jun-2020 21:06:13 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/tyrezghb/public_html/_webcontrol/pay-on-delivery.php on line 130
+[23-Jun-2020 21:06:25 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/tyrezghb/public_html/_webcontrol/pay-on-delivery.php on line 130
+[23-Jun-2020 21:06:40 America/New_York] PHP Notice:  Undefined variable: dtotal in /home/tyrezghb/public_html/_webcontrol/ajax-process.php on line 45
+[23-Jun-2020 21:06:43 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/tyrezghb/public_html/_webcontrol/pay-on-delivery.php on line 130
+[23-Jun-2020 21:07:00 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/tyrezghb/public_html/_webcontrol/pay-on-delivery.php on line 130
+[23-Jun-2020 21:07:26 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/tyrezghb/public_html/_webcontrol/pay-on-delivery.php on line 130
+[24-Jun-2020 13:12:02 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[24-Jun-2020 13:12:02 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 20
+[24-Jun-2020 13:12:02 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 29
+[24-Jun-2020 13:12:02 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/pay-on-delivery.php on line 14
+[24-Jun-2020 13:12:02 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/pay-on-delivery.php on line 15
+[24-Jun-2020 13:12:02 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[24-Jun-2020 13:12:02 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[24-Jun-2020 13:12:02 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[24-Jun-2020 13:12:02 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[24-Jun-2020 13:12:02 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[24-Jun-2020 13:12:02 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[24-Jun-2020 13:12:02 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[24-Jun-2020 13:12:03 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[24-Jun-2020 13:12:03 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 20
+[24-Jun-2020 13:12:03 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 29
+[24-Jun-2020 13:12:03 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[24-Jun-2020 13:12:03 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[24-Jun-2020 13:12:03 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/index.php on line 34
+[24-Jun-2020 13:12:03 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[24-Jun-2020 13:12:03 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[24-Jun-2020 13:12:03 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[24-Jun-2020 13:12:03 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[24-Jun-2020 13:12:03 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[25-Jun-2020 07:28:40 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; upload has a deprecated constructor in /home/tyrezghb/public_html/_webcontrol/image_php/class.upload.php on line 39
+[25-Jun-2020 07:34:51 America/New_York] PHP Notice:  Undefined index: user_id in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 242
+[25-Jun-2020 07:34:51 America/New_York] PHP Notice:  Undefined index: name in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 279
+[25-Jun-2020 07:34:51 America/New_York] PHP Notice:  Undefined index: user_id in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 280
+[25-Jun-2020 07:34:51 America/New_York] PHP Notice:  Undefined index: phone in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 290
+[25-Jun-2020 19:32:08 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tyrezghb/public_html/conn.php on line 2
+[25-Jun-2020 19:32:25 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tyrezghb/public_html/conn.php on line 2
+[25-Jun-2020 19:33:40 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tyrezghb/public_html/conn.php on line 2
+[25-Jun-2020 19:54:26 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tyrezghb/public_html/conn.php on line 2
+[25-Jun-2020 19:59:01 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tyrezghb/public_html/conn.php on line 2
+[25-Jun-2020 20:00:03 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tyrezghb/public_html/conn.php on line 2
+[25-Jun-2020 20:00:43 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tyrezghb/public_html/conn.php on line 2
+[25-Jun-2020 20:03:27 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tyrezghb/public_html/conn.php on line 2
+[26-Jun-2020 04:53:59 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[26-Jun-2020 04:53:59 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 38
+[26-Jun-2020 04:53:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 47
+[26-Jun-2020 04:53:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/settings.php on line 33
+[26-Jun-2020 04:53:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/settings.php on line 34
+[26-Jun-2020 04:53:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[26-Jun-2020 04:53:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[26-Jun-2020 04:53:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[26-Jun-2020 04:53:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[26-Jun-2020 04:53:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[26-Jun-2020 04:53:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[26-Jun-2020 04:53:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[26-Jun-2020 04:53:59 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[26-Jun-2020 04:53:59 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 38
+[26-Jun-2020 04:53:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 47
+[26-Jun-2020 04:53:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[26-Jun-2020 04:53:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[26-Jun-2020 04:53:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/index.php on line 34
+[26-Jun-2020 04:53:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[26-Jun-2020 04:53:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[26-Jun-2020 04:53:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[26-Jun-2020 04:53:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[26-Jun-2020 04:53:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[26-Jun-2020 15:29:47 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[26-Jun-2020 15:29:47 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 38
+[26-Jun-2020 15:29:47 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 47
+[26-Jun-2020 15:29:47 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/settings.php on line 33
+[26-Jun-2020 15:29:47 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/settings.php on line 34
+[26-Jun-2020 15:29:47 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[26-Jun-2020 15:29:47 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[26-Jun-2020 15:29:48 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[26-Jun-2020 15:29:48 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[26-Jun-2020 15:29:48 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[26-Jun-2020 15:29:48 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[26-Jun-2020 15:29:48 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[26-Jun-2020 15:29:48 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[26-Jun-2020 15:29:48 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 38
+[26-Jun-2020 15:29:48 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 47
+[26-Jun-2020 15:29:48 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[26-Jun-2020 15:29:48 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[26-Jun-2020 15:29:48 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/index.php on line 34
+[26-Jun-2020 15:29:48 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[26-Jun-2020 15:29:48 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[26-Jun-2020 15:29:48 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[26-Jun-2020 15:29:48 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[26-Jun-2020 15:29:48 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[26-Jun-2020 20:20:03 America/New_York] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/tyrezghb/public_html/_webcontrol/delivered.php on line 131
+[26-Jun-2020 20:21:00 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Undefined index: order_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 233
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 238
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Undefined variable: total in /home/tyrezghb/public_html/_webcontrol/orders.php on line 255
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Undefined variable: feed in /home/tyrezghb/public_html/_webcontrol/orders.php on line 260
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Undefined index: referral_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 266
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/tyrezghb/public_html/_webcontrol/orders.php on line 268
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 271
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 272
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Undefined variable: u in /home/tyrezghb/public_html/_webcontrol/orders.php on line 273
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Undefined index: user_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 303
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Undefined index: name in /home/tyrezghb/public_html/_webcontrol/orders.php on line 340
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Undefined index: user_id in /home/tyrezghb/public_html/_webcontrol/orders.php on line 341
+[26-Jun-2020 20:21:01 America/New_York] PHP Notice:  Undefined index: phone in /home/tyrezghb/public_html/_webcontrol/orders.php on line 351
+[26-Jun-2020 20:22:52 America/New_York] PHP Notice:  Undefined index: user_id in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 242
+[26-Jun-2020 20:22:52 America/New_York] PHP Notice:  Undefined index: name in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 279
+[26-Jun-2020 20:22:52 America/New_York] PHP Notice:  Undefined index: user_id in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 280
+[26-Jun-2020 20:22:52 America/New_York] PHP Notice:  Undefined index: phone in /home/tyrezghb/public_html/_webcontrol/order-view.php on line 290
+[26-Jun-2020 20:29:30 America/New_York] PHP Notice:  Undefined index: name in /home/tyrezghb/public_html/_webcontrol/coupon.php on line 151
+[26-Jun-2020 20:29:30 America/New_York] PHP Notice:  Undefined index: name in /home/tyrezghb/public_html/_webcontrol/coupon.php on line 151
+[27-Jun-2020 07:47:59 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[27-Jun-2020 07:47:59 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 38
+[27-Jun-2020 07:47:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 47
+[27-Jun-2020 07:47:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/settings.php on line 33
+[27-Jun-2020 07:47:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/settings.php on line 34
+[27-Jun-2020 07:47:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[27-Jun-2020 07:47:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[27-Jun-2020 07:47:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[27-Jun-2020 07:47:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[27-Jun-2020 07:47:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[27-Jun-2020 07:47:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[27-Jun-2020 07:47:59 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[27-Jun-2020 07:48:00 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[27-Jun-2020 07:48:00 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 38
+[27-Jun-2020 07:48:00 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 47
+[27-Jun-2020 07:48:00 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[27-Jun-2020 07:48:00 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[27-Jun-2020 07:48:00 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/index.php on line 34
+[27-Jun-2020 07:48:00 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[27-Jun-2020 07:48:00 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[27-Jun-2020 07:48:00 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[27-Jun-2020 07:48:00 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[27-Jun-2020 07:48:00 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[28-Jun-2020 15:02:33 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[28-Jun-2020 15:02:33 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 38
+[28-Jun-2020 15:02:33 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 47
+[28-Jun-2020 15:02:33 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/manage-delivery.php on line 23
+[28-Jun-2020 15:02:33 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/manage-delivery.php on line 24
+[28-Jun-2020 15:02:33 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[28-Jun-2020 15:02:33 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[28-Jun-2020 15:02:33 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[28-Jun-2020 15:02:33 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[28-Jun-2020 15:02:33 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[28-Jun-2020 15:02:33 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[28-Jun-2020 15:02:33 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[28-Jun-2020 15:02:33 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[28-Jun-2020 15:02:33 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 38
+[28-Jun-2020 15:02:33 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 47
+[28-Jun-2020 15:02:33 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[28-Jun-2020 15:02:33 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[28-Jun-2020 15:02:33 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/index.php on line 34
+[28-Jun-2020 15:02:33 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[28-Jun-2020 15:02:33 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[28-Jun-2020 15:02:33 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[28-Jun-2020 15:02:33 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[28-Jun-2020 15:02:33 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146
+[28-Jun-2020 18:32:42 America/New_York] PHP Notice:  Undefined index: logged_ in /home/tyrezghb/public_html/_webcontrol/header.php on line 4
+[28-Jun-2020 18:32:42 America/New_York] PHP Notice:  Undefined index: admin in /home/tyrezghb/public_html/_webcontrol/header.php on line 38
+[28-Jun-2020 18:32:42 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/header.php on line 47
+[28-Jun-2020 18:32:42 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 2
+[28-Jun-2020 18:32:42 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/aside.php on line 5
+[28-Jun-2020 18:32:42 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/index.php on line 34
+[28-Jun-2020 18:32:42 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 98
+[28-Jun-2020 18:32:42 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 135
+[28-Jun-2020 18:32:42 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 136
+[28-Jun-2020 18:32:42 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 141
+[28-Jun-2020 18:32:42 America/New_York] PHP Notice:  Undefined variable: r in /home/tyrezghb/public_html/_webcontrol/footer.php on line 146

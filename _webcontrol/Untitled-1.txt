@@ -1,0 +1,37 @@
+FEW OBSERVATION
+1. The slideshow is taking a while to load. Please optimize it to load faster. solved
+
+
+2. There's a huge space between the slideshow holder and other sections leaving huge white background at both up and down. solved
+
+
+3. The logo is not looking great on mobile. So, I suggest that you add a custom query or use CSS to switch between the full logo or the logo icon on both desktop and mobile view respectively
+Or
+You can use the logo icon on the header and the full logo on the footer
+
+4. On the Top Categories menu list, The icon of Room decor and Building are not commensurate with the names. solved
+
+
+5. Immediately after"New Arrival" section, compress "Returns", Secured Payment" and "Customer Support" into one section to make room for other sections.
+
+
+6. Before "Featured Products" section, add "Testimonials" section with scrolling image of customers who have received their products. Names and Products to be included in the image. solved
+
+
+7. There is too much space between sections of the site. See how you can knit them together may be the padding is too much. solved
+
+
+8. Consider reducing the height of each section to accommodate more sections
+
+
+9. Add 4 more sections "Phones" "Fridges & Refrigerators", " Generators", and "LED &Tvs" because these are the four most prominent products people buy with this scheme.
+
+
+9. On the"Free shipping &Return" remove "on all order above N100,000 and add "free shipping on all products apart from furniture, Tanks, building materials and other heavy products
+
+10. Add VAT calculation during checkout solved
+11. Don't add any transportation costs, Ok
+
+
+
+Also Transportation cost will be calculated at 2.5% for products below 100k and 2% for products above 100k
